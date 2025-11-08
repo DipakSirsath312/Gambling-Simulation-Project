@@ -48,3 +48,13 @@ Gambling-Simulation-Project/
  ---
 
 # 💻 Technologies
+
+1. Language: Java
+
+2. Concepts: OOP, Random number generation, Loops, Conditionals
+
+3. IDE/Build: Eclipse / IntelliJ / VS Code (depending on your setup)
+
+4. Version control: Git & GitHub
+
+---
