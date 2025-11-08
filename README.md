@@ -17,3 +17,32 @@ Uses OOP (classes, objects, methods) to structure the logic.
 Demonstrates use of randomization (java.util.Random), loops, conditionals and encapsulation.
 
 ---
+
+# 🧩 Project Structure
+
+Gambling-Simulation-Project/
+
+│
+
+├── src/
+
+│   ├── Main.java
+
+│   ├── GameSimulator.java
+
+│   ├── Player.java
+
+│   └── Utils.java
+│
+
+├── .classpath
+
+├── .project
+
+├── .settings/
+
+├── README.md
+
+└── LICENSE
+
+ ---
