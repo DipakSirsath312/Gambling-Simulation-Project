@@ -46,3 +46,5 @@ Gambling-Simulation-Project/
 └── LICENSE
 
  ---
+
+# 💻 Technologies
