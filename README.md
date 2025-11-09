@@ -90,15 +90,19 @@ Simulation complete: Total Rounds: 20, Final Balance: $1120
 # 🏁 How to Run
 
 1. Clone the repository:
+
    git clone https://github.com/DipakSirsath312/Gambling-Simulation-Project.git
 
-2. Navigate into the project folder:
+3. Navigate into the project folder:
+
    cd Gambling-Simulation-Project
 
-3. Compile the Java files (assuming src folder structure):
+4. Compile the Java files (assuming src folder structure):
+
    javac -d . src/*.java
 
-4. Run the main program:
+6. Run the main program:
+
    java Main
 
 ---
