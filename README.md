@@ -140,4 +140,7 @@ Contributions are absolutely welcome! If you have ideas to extend this project (
 # 💬 Author
 
 👤 Dipak Sirsath
-📌 GitHub Profile
+
+📌 GitHub Profile: https://github.com/DipakSirsath312
+
+---
