@@ -106,3 +106,33 @@ Simulation complete: Total Rounds: 20, Final Balance: $1120
    java Main
 
 ---
+
+# 📘 Learning Goals
+
+By working through or reviewing this project you will learn how to:
+
+Design a simulation with configurable parameters.
+
+Use randomization and iteration to model real-world phenomena (gambling outcomes).
+
+Structure code cleanly into classes and methods.
+
+Track state and update based on conditions.
+
+Write code that is modular and maintainable.
+
+---
+
+# 🤝 Contributing
+
+Contributions are absolutely welcome! If you have ideas to extend this project (e.g., different bet types, statistics tracking, UI, more players), please:
+
+1. Fork the repository
+
+2. Create a branch for your feature (feature/…)
+
+3. Commit your changes and push
+
+4. Open a Pull Request for review
+
+---
