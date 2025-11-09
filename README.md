@@ -58,3 +58,14 @@ Gambling-Simulation-Project/
 4. Version control: Git & GitHub
 
 ---
+
+🔍 Example Output
+
+Welcome to the Gambling Simulation!
+Player starts with $1000
+Round 1: Bet $50 — Result: Win! New Balance: $1050
+Round 2: Bet $50 — Result: Lose. New Balance: $1000
+...
+Simulation complete: Total Rounds: 20, Final Balance: $1120
+
+---
