@@ -62,10 +62,27 @@ Gambling-Simulation-Project/
 🔍 Example Output
 
 Welcome to the Gambling Simulation!
+
 Player starts with $1000
+
 Round 1: Bet $50 — Result: Win! New Balance: $1050
+
 Round 2: Bet $50 — Result: Lose. New Balance: $1000
 ...
 Simulation complete: Total Rounds: 20, Final Balance: $1120
+
+---
+
+# 🧠 Concepts Demonstrated
+
+1. Object-Oriented Programming (classes, objects, methods)
+
+2. Use of random number generation for simulation
+
+3. Loops to iterate rounds of play
+
+4. Conditionals to determine win/loss and update state
+
+5. Encapsulation and clean method decomposition for readability and maintainability
 
 ---
