@@ -136,3 +136,8 @@ Contributions are absolutely welcome! If you have ideas to extend this project (
 4. Open a Pull Request for review
 
 ---
+
+# 💬 Author
+
+👤 Dipak Sirsath
+📌 GitHub Profile
